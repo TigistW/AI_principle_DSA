@@ -1,1 +1,1 @@
-# AI_principle_DSA
+# AI_principles_DSA
